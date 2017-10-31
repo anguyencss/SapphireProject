@@ -5582,6 +5582,6 @@ body > * {
     background: linear-gradient(to bottom, #007bff 0%, transparent 60%); }
 
 .blur {
-  -webkit-filter: blur(3.5px);
+  -webkit-filter: blur(4px);
   /* Safari 6.0 - 9.0 */
-  filter: blur(3.5px); }
+  filter: blur(4px); }
